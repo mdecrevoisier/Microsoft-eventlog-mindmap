@@ -2,7 +2,7 @@
  
 ## Project purpose
 **Windows auditing mindmap** provides a simplified view of Windows Event logs and auditing capacities that enables defenders to enhance visibility for different scenarios:
-* Log collection into a SIEM
+* Log collection (eg: into a SIEM)
 * Threat hunting
 * Forensic
 
@@ -22,6 +22,6 @@ This map provides an overview of the different Event logs and auditing capacitie
 ![](/windows-server-roles-map/windows-server-roles-map.png)
 
 # Active Directory auditing
-his map provides an overview of the different Event logs and auditing capacities provided by Active Directory (ADDS) role.
+This map provides an overview of the different Event logs and auditing capacities provided by Active Directory (ADDS) role.
 ![](/active-directory-map/active-directory-map.png)
 
