@@ -12,6 +12,8 @@ The following mindmaps are currently provided:
 * Windows Server roles auditing (also covers SQL Server and 
 Advanced Threat Analytics)
 * Active Directory (ADDS) auditing
+* Exchange Server (planned)
+* Azure (planned)
 
 # Windows OS auditing baseline
 This map provides an overview of the native Event logs shipped in Windows OS. They are classified into different categories (network, security, application,...) and their related auditing settings.
