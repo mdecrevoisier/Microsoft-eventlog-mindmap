@@ -7,12 +7,15 @@
 * Forensic / DFIR
 * Troubleshooting
 
-## Mindmaps
+## Active mindmaps
 The following mindmaps are currently provided:
 * Windows OS auditing baseline
 * Windows Server roles auditing (also covers SQL Server and 
 Advanced Threat Analytics)
 * Active Directory (ADDS) auditing
+
+## Coming mindmaps
+* Remote Desktop / Terminal Services (in progress)
 * Exchange Server auditing (planned)
 * Azure (planned)
 
