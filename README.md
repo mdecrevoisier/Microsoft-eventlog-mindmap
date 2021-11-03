@@ -13,9 +13,7 @@ The following mindmaps are currently provided:
 * Windows Server roles auditing (also covers SQL Server and Advanced Threat Analytics)
 * Active Directory (ADDS) auditing
 * Microsoft Azure
-
-## Coming mindmaps
-* Exchange Server auditing (planned)
+* Exchange Server 2016/2019 auditing
 
 # Windows OS auditing baseline
 This map provides an overview of the native Event logs shipped in Windows OS. They are classified into different categories (network, security, application,...) and their related auditing settings.
@@ -32,3 +30,7 @@ This map provides an overview of the different Event logs and auditing capacitie
 # Microsoft Azure
 This map provides an overview of the different data sources provided in Azure, available via EventHub or API.
 ![](/microsoft-azure-map/microsoft-azure-map.png)
+
+# Exchange Server 2016/2019
+This map provides an overview of the different data sources provided by Exchange Server.
+![](/exchange-server-map/exchange-server-map.png)
