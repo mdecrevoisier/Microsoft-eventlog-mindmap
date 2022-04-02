@@ -8,11 +8,11 @@
 * Troubleshooting
 
 ## Active mindmaps
-The following mindmaps are currently provided:
+The following mindmaps are currently provided in PDF and PNG formats:
 * Windows OS auditing baseline
-* Windows Server roles auditing (also covers SQL Server and Advanced Threat Analytics)
+* Windows Server roles auditing (includes SQL Server and Advanced Threat Analytics)
 * Active Directory (ADDS) auditing
-* Microsoft Azure
+* Microsoft Azure auditing
 * Exchange Server 2016/2019 auditing
 
 # Windows OS auditing baseline
