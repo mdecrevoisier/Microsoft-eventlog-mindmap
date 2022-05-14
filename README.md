@@ -1,7 +1,7 @@
-# Windows-auditing-mindmap
+# Microsoft-auditing-mindmap
 
 ## Project purpose
-**Windows auditing mindmap** provides a simplified view of Windows Event logs and auditing capacities that enables defenders to enhance visibility for different purposes:
+**Microsoft auditing mindmap** provides a simplified view of Windows Event logs and auditing capacities that enables defenders to enhance visibility for different purposes:
 * Log collection (eg: into a SIEM)
 * Threat hunting
 * Forensic / DFIR
