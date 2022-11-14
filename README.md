@@ -39,4 +39,4 @@ This map provides an overview of the different data sources provided by Exchange
 
 # Exchange email forwarding hunting
 This map provides an overview of the different hunting capacities regarding Exchange email forwarding rules abused by attackers in BEC attacks.
-![](/exchange-email-forwarding/exchange-email-forwarding.png)
+![](/exchange-email-compromise-map/exchange-email-compromise.png)
