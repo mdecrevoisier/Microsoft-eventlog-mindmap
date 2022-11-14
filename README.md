@@ -37,6 +37,6 @@ This map provides an overview of the different data sources provided in Azure, a
 This map provides an overview of the different data sources provided by Exchange Server.
 ![](/exchange-server-map/exchange-server-map.png)
 
-# Exchange email forwarding hunting
-This map provides an overview of the different hunting capacities regarding Exchange email forwarding rules abused by attackers in BEC attacks.
+# Exchange email rule hunting
+This map provides an overview of the different hunting capacities regarding Exchange email compromise rules abused in BEC attacks.
 ![](/exchange-email-compromise-map/exchange-email-compromise.png)
