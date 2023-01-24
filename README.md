@@ -9,7 +9,7 @@
 * Troubleshooting
 
 ## Active mindmaps
-The following mindmaps are currently provided (PDF/PNG formats):
+The following mindmaps are currently provided (PDF/PNG/SVG formats):
 * Windows OS auditing baseline
 * Windows Server roles auditing (includes SQL Server and Advanced Threat Analytics)
 * Active Directory (ADDS) auditing
