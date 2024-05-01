@@ -29,10 +29,6 @@ This map provides an overview of the different Event logs and auditing capacitie
 This map provides an overview of the different Event logs and auditing capacities provided by Active Directory (ADDS) role.
 ![](/active-directory-map/active-directory-map.png)
 
-# Microsoft Azure data sources
-This map provides an overview of the different data sources provided in Azure, available via EventHub or API.
-![](/microsoft-azure-map/microsoft-azure-map.png)
-
 # Exchange Server 2016/2019 event logs
 This map provides an overview of the different data sources provided by Exchange Server.
 ![](/exchange-server-map/exchange-server-map.png)
