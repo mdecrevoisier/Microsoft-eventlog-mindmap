@@ -13,7 +13,6 @@ The following mindmaps are currently provided (PDF/PNG/SVG formats):
 * Windows OS auditing baseline
 * Windows Server roles auditing (includes SQL Server and Advanced Threat Analytics)
 * Active Directory (ADDS) auditing
-* Microsoft Azure auditing
 * Exchange Server 2016/2019 auditing
 * Exchange email forwarding hunting
 
